@@ -1,0 +1,207 @@
+.nav-head{
+    border: none;
+    position: relative;
+    z-index: 10px;
+    width: 60%;
+    background-color: transparent;
+    margin-left: 80px;
+    }
+    
+    .nav-head1{
+        border: none;
+        position: fixed;
+        z-index: 10px;
+        width: 60%;
+        background-color: transparent;
+        margin-left: 80px;
+        }
+   .nav-head .logo img, .nav-head1 .logo img{
+    width: 200px;
+    height: 10rem;
+    margin-left:10px;
+    padding-bottom: 12px;
+        margin-top: -12px;
+    }
+
+.text{
+    margin-left: 105px;
+    padding-right: 240px;
+
+}
+.text button{
+    width:100%;
+}
+.navbar-right1 {
+    float: right !important;
+    margin-right: -119px;
+  }
+  
+ .navbar-right{
+    float: right !important;
+    margin-right: 8px;
+  }
+ 
+  .navbar-nav.navbar-right1>li>a,.navbar-nav.navbar-right>li>a{
+        color: red;
+        margin-top: 15px;
+        border:solid 1px red;
+       margin-left: 4rem;
+       padding: 7px;
+    }
+    .text{
+        padding-left: 0px;
+        padding-right: 0px;
+        width: 40%;
+        padding-top: 74px;
+        color: white;}
+
+.col-md-6{
+    padding-left: 0px;
+    padding-right: 22px;
+    width: 30%;
+  }
+
+  .nav-head1 >.container-fluid{
+    background-color:  rgb(59, 12, 12);
+     color: red;
+     width: 200%;
+     height: 90px;
+     margin-left: -82px;}
+
+.nav-head >.container-fluid{
+   background-color:  rgb(59, 12, 12);
+    color: red;
+    width: 167%;
+    height: 90px;
+    margin-left: -82px;
+}
+
+.input-group {
+    position: relative;
+    display: table;
+    border-collapse: separate;
+    width: 60rem;
+    margin-left: 277px;}
+    
+.alert-success {
+    color: #3c763d;
+    background-color: #dff0d8;
+    border-color: #d6e9c6;
+    width: 70%;
+    margin-left: 150px;}
+
+    .foot1>.f-row{
+        background-color: rgb(59, 12, 12);
+        height: 40px;
+        margin-top: 12rem;
+      }
+      .foot1>.f-row>.col-md-12>.footer>ul{
+        list-style: none;
+      }
+      .foot1>.f-row>.col-md-12>.footer>ul>li{
+        color: white;}
+        .foot1>.f-row>.col-md-12>.footer>ul>.social{
+          padding-left: 48rem;
+          margin-top: -2rem;}
+
+.container >form >input{
+    width: 80%;
+    border: 1px thin grey;
+    
+}
+
+
+
+a {
+    color: #fff;
+    text-decoration: none;
+}
+.container >form >button{
+    width: 10%;
+    height: 33px;
+}
+
+
+.container >form >button >p{
+    padding-top: 0px;
+    margin-top: -8px;
+}
+
+.container>.row>.col-md-12>.footer>ul{
+    list-style: none;
+}
+.foot{
+    margin-right: 0%;
+    margin-left: 1px;
+}
+.foot>.row>.col-md-12>.footer>ul>li{
+  
+    background-color: rgb(59, 12, 12);
+    color:white;
+   height: 50px;
+   padding-top: 15px;
+   padding-left: 20px;
+
+}
+.container>.row {
+    margin-right: -170px;
+    margin-left: -167px;
+}
+.about>.row>.col-md-4>img{
+    height: 39px;
+    margin-left: 20rem;
+}
+
+.about>.row>p{
+ 
+    padding-right: 16rem;
+    margin-right: -14px;
+} 
+
+.foot {
+    margin-right: -1%;
+    margin-left: 1px;}
+    
+    .foot>.row{
+     
+        margin-right: -13px;
+        margin-left: -56px;
+    }
+    
+
+.foot>.row>.col-md-12>.footer>ul{
+  list-style: none;
+}
+.foot>.row>.col-md-12>.footer>ul>li{
+  color: white;}
+  
+
+       
+    
+    .fa {  
+        padding-top: -14px;  
+      text-align: center;  
+        margin: 5px 2px;  
+        font-size: 30px;  
+        width: 50px;  
+      }  
+      .fa-facebook {  
+        background:transparent;  
+        color: rgb(57, 159, 218);  
+      }  
+      .fa-twitter {  
+        background: transparent;  
+        color: rgb(57, 159, 218);  
+      }  
+      .fa-pinterest {  
+        background: transparent;  
+        color: rgb(57, 159, 218);  
+      }  
+      .fa-linkedin {  
+        background:transparent;  
+        color: rgb(57, 159, 218);  
+      }  
+      .fa-instagram {  
+        background: transparent;  
+        color: rgb(57, 159, 218);  
+      }  
